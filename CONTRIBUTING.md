@@ -19,7 +19,14 @@ We usually do not assign issues to new contributors, since it happens often that
 
 ## Use of generative AI
 
-We ask you not to open PRs generated with an LLM. We find that code generated like this tends to need a large amount of back-and-forth, which is a very inefficient use of our time. If we want LLM-generated code, it's much faster for us to use an LLM ourselves than to go through an intermediary via a pull request.
+This fork welcomes AI-assisted and agentic contributions. That said, *you* are the contributor — not your tools. For every PR, regardless of how it was written, we expect that you:
+
+- have read, understood, and tested every change you submit, and can discuss it in review;
+- disclose the degree of AI involvement in the PR description (there is a section for it in the template);
+- respond to review feedback yourself and keep iterating until the PR meets the bar;
+- include tests, follow the surrounding code's conventions, and keep the PR focused on one thing.
+
+Low-effort, unreviewed, or untested AI output will be closed, exactly as a low-effort human PR would be. The bar is the quality of the contribution, not the tool that produced it.
 
 ## Feature freezes
 

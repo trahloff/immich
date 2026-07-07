@@ -38,4 +38,8 @@ The `/api/something` endpoint is now `/api/something-else`
 
 ## Please describe to which degree, if any, an LLM was used in creating this pull request.
 
+<!-- AI-assisted contributions are welcome here. Be honest about how the change was produced,
+     confirm that you have personally reviewed and tested it, and that you will handle review
+     feedback yourself. See CONTRIBUTING.md "Use of generative AI". -->
+
 ...

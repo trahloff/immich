@@ -1,3 +1,6 @@
+> [!NOTE]
+> **This is a community fork of [Immich](https://github.com/immich-app/immich).** It is not affiliated with or endorsed by the upstream Immich team or FUTO. This fork exists for contributors who want to build features — including with AI-assisted/agentic workflows, which upstream does not accept — on top of the excellent foundation the Immich team has created. We track upstream closely, and all changes here remain AGPL-3.0 licensed. If you don't need the extra features, please use — and support — [upstream Immich](https://immich.app).
+
 <p align="center"> 
   <br/>
   <a href="https://opensource.org/license/agpl-v3"><img src="https://img.shields.io/badge/License-AGPL_v3-blue.svg?color=3F51B5&style=for-the-badge&label=License&logoColor=000000&labelColor=ececec" alt="License: AGPLv3"></a>
